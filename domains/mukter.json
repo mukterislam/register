@@ -1,0 +1,11 @@
+{
+  "description": "mukter.is-a.dev",
+  "repo": "https://github.com/mukterislam/drive",
+  "owner": {
+    "username": "mukterislam",
+    "email": "mukter.islam22@gmail.com"
+  },
+  "record": {
+    "CNAME": "mukterislam.github.io"
+  }
+}
